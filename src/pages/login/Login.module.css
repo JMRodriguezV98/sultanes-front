@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.backgroundPrincipal{
+    background-image: url('/src/assets/img-loginFilter.png');
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position-x: -200px;
+}
+
+.logo{
+    width: 530px;
+    height: 530px;
+}
+
+.containerForm{
+    border-radius: 67px 0px 0px 67px;
+    background: linear-gradient(90deg, rgba(48,48,48,1) 0%, rgba(16,16,11,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.titleForm{
+    font-weight: 700;
+}

@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.fondoLandig{
+    background: #10100B;
+}
+
+.title{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.paragraph{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.buttonLogin{
+    background-color: #E0E41C;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1D1D16;
+}
